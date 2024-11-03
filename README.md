@@ -1,2 +1,2 @@
 # TrelloAutomationWITH_RestAssured_mvn_Java
-Web Automation
+Web Automation with TestNG
